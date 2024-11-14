@@ -1,0 +1,42 @@
+_repo: The-chronicles-of-Enguerrand-de-Monstrelet-b-containing-an-account-of-the-cruel-civil-wars-be__74647
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Johnes, Thomas
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '46109'
+    url: http://www.gutenberg.org/2009/agents/46109
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Johnes
+creator:
+  author:
+    agent_name: Monstrelet, Enguerrand de
+    aliases:
+    - Monstrelet, Enguerran de
+    - De Monstrelet, Enguerrand
+    deathdate: 1453
+    gutenberg_agent_id: '46108'
+    url: http://www.gutenberg.org/2009/agents/46108
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+    - https://fr.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74647'
+language: en
+pgterms:marc905: 20150328124205monstrelet
+pgterms:marc906: '1810'
+pgterms:marc907: GB
+production_note: Graeme Mackreth and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bLongman, Hurst, Rees, Orme, and Brown, $c1810.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The chronicles of Enguerrand de Monstrelet : $b containing an account of the
+  cruel civil wars between the houses of Orleans and Burgundy'
+url: http://www.gutenberg.org/ebooks/74647
